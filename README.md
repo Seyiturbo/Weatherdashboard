@@ -30,10 +30,13 @@ For this task, my objective was to develop a straightforward weather dashboard, 
  All you need to do is open [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will be ready for you to use;
 
 md
-    ![Screenshot 1]()
+![Screenshot 1](./images/Screenshot1.png)
 
 md
-    ![Screenshot 2]()
+![Screenshot 3](./images/Screenshot3.png)
+
+md
+![Screenshot 2](./images/Screenshot2.png)
    
 
 
