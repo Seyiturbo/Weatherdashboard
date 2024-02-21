@@ -21,7 +21,7 @@ form {
 }
 
 button {
-    background-color: #004a9a;
+    background-color: #e6f2ff;
     color: #5f1b1b;
     padding: 10px;
     cursor: pointer;
@@ -30,5 +30,5 @@ button {
 }
 
 button:hover {
-    background-color: #9f1b00;
+    background-color: #8bd3fa;
 }

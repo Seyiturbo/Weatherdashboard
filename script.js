@@ -15,7 +15,7 @@ searchButton.addEventListener("click", function (e) {
   quickBtn.textContent = "";
   var citiesBtnArr = [];
 
-  var API_Key = "857f61713ca1c679c09b07553f7ca2e7";
+  var API_Key = "a63e0d69d0c85304b38650a08d2d3ff4";
   if (searchInput.value.trim() === "") {
   } else if (searchInput.value.trim()) {
     var city = searchInput.value.trim();
