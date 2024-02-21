@@ -25,12 +25,12 @@ For this task, my objective was to develop a straightforward weather dashboard, 
 
 
 
-## Usage
+# Utilization
 
  All you need to do is open [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will be ready for you to use;
 
 md
-![Screenshot 1](./images/Screenshot1.png)
+ ![Screenshot 1](./images/Screenshot1.png)
 
 md
 ![Screenshot 3](./images/Screenshot3.png)
@@ -42,14 +42,12 @@ md
 
 ## Credits
 
-I read the following documentation to help me complete this challenge: 
-
-[Read Me Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+These are the materials i consulted for this project:
 
 [day.js](https://day.js.org/docs/en/display/format)
 
 [openweather 5-day forecast API](https://openweathermap.org/forecast5#5days)
 
-[openweather geocoding API](https://openweathermap.org/api/geocoding-api#direct_name_fields)
 
+[Read Me Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
