@@ -27,7 +27,7 @@ For this task, my objective was to develop a straightforward weather dashboard, 
 
 ## Usage
 
- All you need to do is open [this page](https://chantalcassinijones.github.io/weather-dashboard/) in your browser. The weather dashboard will be ready for you to use;
+ All you need to do is open [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will be ready for you to use;
 
 md
     ![Screenshot 1]()
