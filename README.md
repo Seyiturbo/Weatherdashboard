@@ -1,5 +1,5 @@
 # Weather Dashboard
-Eight Challenge for Bootcamp in web-developing and UX
+Challenge 8
 
 For this task, my objective is to develop a straightforward weather dashboard, incorporating the utilization of the [Day.js](https://day.js.org/docs/en/display/format) library for efficient handling of date and time functionalities effectively. 
 
