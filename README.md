@@ -29,8 +29,8 @@ For this task, my objective is to develop a straightforward weather dashboard, i
 
  Open this link [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will open and then input your desired location. At the moment, the weather dashboard index file broke although the weather app is working fine. Working on fixing the dashboard as soon as possible.
 
-md
- ![Screenshot 1](./images/Screenshot1.png)
+
+![Screenshot 1](./images/Screenshot1.png)
 
 md
 ![Screenshot 3](./images/Screenshot3.png)
