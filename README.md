@@ -1,7 +1,7 @@
 # Weather Dashboard
 Eight Challenge for Bootcamp in web-developing and UX
 
-For this task, my objective was to develop a straightforward weather dashboard, incorporating the utilization of the Day.js library for efficient handling of date and time functionalities. The assignment involved creating a basic weather dashboard and implementing the [Day.js](https://day.js.org/docs/en/display/format)  library to manage date and time aspects effectively.
+For this task, my objective is to develop a straightforward weather dashboard, incorporating the utilization of the [Day.js](https://day.js.org/docs/en/display/format) library for efficient handling of date and time functionalities effectively. 
 
 
 ## Acceptance Criteria
@@ -27,7 +27,7 @@ For this task, my objective was to develop a straightforward weather dashboard, 
 
 # Utilization
 
- All you need to do is open [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will be ready for you to use;
+ Open this link [this page](https://seyiturbo.github.io/Weatherdashboard/) in your browser. The weather dashboard will open and then input your desired location. At the moment, the weather dashboard index file broke although the weather app is working fine. Working on fixing the dashboard as soon as possible.
 
 md
  ![Screenshot 1](./images/Screenshot1.png)
