@@ -32,10 +32,10 @@ For this task, my objective is to develop a straightforward weather dashboard, i
 
 ![Screenshot 1](./images/Screenshot1.png)
 
-md
+
 ![Screenshot 3](./images/Screenshot3.png)
 
-md
+
 ![Screenshot 2](./images/Screenshot2.png)
    
 
